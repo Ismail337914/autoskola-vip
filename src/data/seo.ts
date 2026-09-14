@@ -1,6 +1,6 @@
 export const seo = {
-  title: 'Autoškola TEMPO Sarajevo | Vogošća',
-  description: 'Autoškola TEMPO Sarajevo nalazi se u WOG Centru na adresi Jošanička 55, Vogošća. Korak po korak do sigurnije vožnje.',
+  title: 'VIP Autoškola Sarajevo | Ilidža',
+  description: 'VIP Autoškola Sarajevo nalazi se na adresi Šehitluci 25, Ilidža. Saznajte više o procesu obuke i prijavite se.',
   canonical: '/',
   ogImage: '/og-image.svg'
 };
